@@ -1,0 +1,14 @@
+DEPT01,Admin,admin@gmail.com,09468823598,COMP01,
+DEPT02,Engineering,engineering@gmail.com,04698853219,COMP01,DEPT01
+DEPT03,Human Resource,hr@gmail.com,03157745698,COMP01,DEPT01
+DEPT04,Sales And Marketing,sale@gmail.com,06325589940,COMP01,DEPT01
+
+DEPT05,Admin,admin@gmail.com,09468823598,COMP02,
+DEPT06,Engineering,engineering@gmail.com,04698853219,COMP02,DEPT05
+DEPT07,Human Resource,hr@gmail.com,03157745698,COMP02,DEPT05
+DEPT08,Sales And Marketing,sale@gmail.com,06325589940,COMP02,DEPT05
+
+DEPT09,Admin,admin@gmail.com,09468823598,COMP03,
+DEPT10,Engineering,engineering@gmail.com,04698853219,COMP03,DEPT09
+DEPT11,Human Resource,hr@gmail.com,03157745698,COMP03,DEPT09
+DEPT12,Sales And Marketing,sale@gmail.com,06325589940,COMP03,DEPT09
